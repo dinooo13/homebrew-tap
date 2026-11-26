@@ -1,6 +1,6 @@
 cask "pladder" do
-  version "0.2.1"
-  sha256 "8653631796169a0cc16ac16451c29392cc1a9db63dac73619c5c660643cb7df1"
+  version "0.2.2"
+  sha256 "47279cf8dd75004e849509a7636b2b6c56bed6dacd227afa4e8ed09736b89e79"
 
   url "https://github.com/dinooo13/pladder/releases/download/v#{version}/Pladder.dmg"
   name "Pladder"
